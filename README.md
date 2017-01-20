@@ -1,5 +1,5 @@
 # AlphaChess
-This project attemtps to take the approach of AlphaGo, and apply it to learning the game of chess.
+This project attempts to take the approach of AlphaGo, and apply it to learning the game of chess.
 It was started as the final project for Stanford's CS221 AI course.
 
 The relevant Google Deep Mind paper is available at: http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html.
